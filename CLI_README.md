@@ -115,4 +115,9 @@ $ find ~/ -type f -name '*.log'
 ### Difference between grep and find 
 - the only difference between find and grep is that grep used to search for pattern inside a file where as find is used to search in file or directory names
 
+## Some useful resources
+
+- cli cheatsheet [https://www.git-tower.com/blog/command-line-cheat-sheet/](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+- cli documentaion [https://docs.rockylinux.org/books/admin_guide/03-commands/](https://docs.rockylinux.org/books/admin_guide/03-commands/)
+- cli video tutorial [https://www.youtube.com/watch?v=uwAqEzhyjtw&t=120s](https://www.youtube.com/watch?v=uwAqEzhyjtw&t=120s)
 
